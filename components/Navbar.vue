@@ -1,6 +1,6 @@
 <template>
   <nav class="navbar is-white" >
-    <div class="navbar-bland">
+    <div class="navbar-brand">
       <div class="navbar-item">Nuxt Bulma Hamburger</div>
       <div class="navbar-burger" data-target="navMenu" @click="$store.commit('toggleMenu')" :class="{'is-active': $store.state.isMenuActive}">
         <span></span>
