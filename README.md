@@ -1,8 +1,10 @@
 # Nuxt-Bulma-Hamburger
 
-> My stunning Nuxt.js project
-
 このページは、[Nuxt.jsにBulmaを組み込んだら、Vuexストアが理解できた件](https://qiita.com/isamusuzuki/items/5ec800e423a3a56ef03d)を写経しながら、Nuxt.jsとBulmaの練習をしているものです。
+
+## デモサイト
+
+https://stoic-wescoff-381f9f.netlify.com/
 
 ## Build Setup
 
