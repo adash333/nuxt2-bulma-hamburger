@@ -2,6 +2,8 @@
 
 > My stunning Nuxt.js project
 
+このページは、[Nuxt.jsにBulmaを組み込んだら、Vuexストアが理解できた件](https://qiita.com/isamusuzuki/items/5ec800e423a3a56ef03d)を写経しながら、Nuxt.jsとBulmaの練習をしているものです。
+
 ## Build Setup
 
 ``` bash
@@ -20,3 +22,17 @@ $ yarn run generate
 ```
 
 For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+
+## 開発環境
+
+```
+Windows 8.1 Pro
+VisualStudioCode
+git version 2.16.1.windows.4
+
+Node v10.14.1
+npm 6.4.1
+@vue/cli 3.2.1
+Nuxt 2.0.0
+@nuxtjs/bulma 1.2.0
+```
